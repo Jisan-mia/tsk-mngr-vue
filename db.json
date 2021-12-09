@@ -1,19 +1,22 @@
 {
-  "tasks":  [
+  "tasks": [
     {
       "id": 1,
-   "text": "Drink coffee",
+      "text": "Drink coffee",
       "day": "March 1st at 2:30pm",
-"reminder": true
-    },{
-      "id": 2, 
-      "text": "Add function",
-      "day": "Jan 2nd at 9:30pm", 
-      "reminder": true
-    },{
-      "id": 3, "text": "Visit School",
-      "day": "Feb 3rd at 10pm",
       "reminder": false
+    },
+    {
+      "id": 80514,
+      "text": "Hello Günter",
+      "day": "asdf",
+      "reminder": true
+    },
+    {
+      "text": "sometextdf",
+      "day": "23th jan 10pm",
+      "reminder": true,
+      "id": 80515
     }
   ]
 }
